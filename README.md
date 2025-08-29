@@ -53,6 +53,8 @@ Il programma è stato progettato per essere valutato attraverso una serie di **t
 
 ### 📌 Traccia del progetto
 
+[![Apri PDF](https://img.shields.io/badge/📄%20Apri-PDF-blue)](docs/specifica_completa_progetto.pdf)
+
 Una pasticceria industriale vuole migliorare il proprio sistema di gestione degli ordini, e vi incarica di sviluppare un software che simuli il funzionamento della pasticceria. L’intera simulazione avviene a tempo discreto. Si assuma che, a valle dell’esecuzione di ogni comando ricevuto in ingresso, trascorra un istante di tempo. La simulazione ha inizio al tempo 0. Nella simulazione si dovranno considerare i seguenti elementi:
 
 * Gli ingredienti dei dolci, ognuno identificato dal suo nome, costituito da una sequenza di caratteri.
